@@ -12,7 +12,7 @@ Welcome to the `llm_api` repository! This repository is dedicated to tracking an
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/llm_api.git
+   git clone https://github.com/rzafiamy/llm_api.git
    ```
 2. **Navigate into the repository directory:**
    ```bash
