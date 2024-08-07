@@ -1,0 +1,22 @@
+{
+    "models": [
+        {
+            "provider": "Provider A",
+            "model": "Model X",
+            "input_price": 0.01,
+            "output_price": 0.01
+        },
+        {
+            "provider": "Provider A",
+            "model": "Model Y",
+            "input_price": 0.02,
+            "output_price": 0.015
+        },
+        {
+            "provider": "Provider B",
+            "model": "Model Z",
+            "input_price": 0.005,
+            "output_price": 0.007
+        }
+    ]
+}
