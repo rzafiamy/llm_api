@@ -39,6 +39,14 @@ Interested in contributing? Great! We welcome contributions from everyone. Here 
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+# Source
+
+- [Openai](https://openai.com/api/pricing/)
+- [Anthropic](https://www.anthropic.com/pricing#anthropic-api)
+- [Mistral](https://mistral.ai/technology/#pricing)
+- [Cohere](https://cohere.com/pricing)
+
+
 # Example
 
 ```bash
