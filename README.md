@@ -20,11 +20,13 @@ Welcome to the `llm_api` repository! This repository is dedicated to tracking an
    ```
 3. **Install Dependencies:**
    ```bash
+   python3 -m venv .pyenv
+   source .pyenv/bin/activate
    pip install -r requirements.txt
    ```
 4. **Run the Application:**
    ```bash
-   python run_app.py
+   python llm-api-cli.py
    ```
 
 ## Contributing 🤝

@@ -15,6 +15,9 @@ def save_data(df):
 def list_models(df, sort_by=None, ascending=True):
     if sort_by:
         df = df.sort_values(by=sort_by, ascending=ascending)
+    
+    # truncate description
+    df['model'] = df['model'].apply(lambda x: x[:50] + '...' if len(x) > 50 else x)
     print(tabulate(df, headers='keys', tablefmt='psql', showindex=False))
 
 def add_update_model(df, provider, model, input_price, output_price, update=False):
