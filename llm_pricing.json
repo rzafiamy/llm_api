@@ -181,6 +181,24 @@
             
             "input_price": 0.8,
             "output_price": 2.4
+          },
+          {
+            "model": "Command R+",
+            "provider": "Cohere",
+            "input_price": 3.00,
+            "output_price": 15.00
+          },
+          {
+            "model": "Command R (General)",
+            "provider": "Cohere",
+            "input_price": 0.50,
+            "output_price": 1.50
+          },
+          {
+            "model": "Command R (Fine-tuned Model)",
+            "provider": "Cohere",
+            "input_price": 2.00,
+            "output_price": 4.00
           }
     ]
 }
